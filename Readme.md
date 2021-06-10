@@ -1,7 +1,7 @@
 # Socket.io + Express.js + Typescript example
 This example demonstrates the socket io integration using express.js framework with typescript.
 
-![Demo](https://github.com/krishnapankhania/socketio-express-typescript/master/demo.gif)
+![Demo](https://github.com/krishnapankhania/socketio-express-typescript/blob/66de1173b7197cbf9abd84acd131337579f4903b/demo.gif?raw=true)
 
 ## Features
 
