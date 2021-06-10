@@ -1,5 +1,8 @@
 # Socket.io + Express.js + Typescript example
 This example demonstrates the socket io integration using express.js framework with typescript.
+
+![Demo](https://github.com/krishnapankhania/socketio-express-typescript/master/demo.gif)
+
 ## Features
 
 - Hot reload
@@ -29,7 +32,7 @@ First, ensure you have the following installed:
 ### Steps to run the code locally
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/krishnapankhania/socketio-express-typescript.git
    ```
 2. Install NPM packages
    ```sh
@@ -49,8 +52,7 @@ Here are some useful links to get started.
 |[Express](https://expressjs.com/en/guide/routing.html)|Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.|
 |[Nodemon](https://www.npmjs.com/package/nodemon)|nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.|
 |[ShellJS](https://www.npmjs.com/package/shelljs)|ShellJS is a portable (Windows/Linux/OS X) implementation of Unix shell commands on top of the Node.js API. You can use it to eliminate your shell script's dependency on Unix while still keeping its familiar and powerful commands. You can also install it globally so you can run it from outside Node projects - say goodbye to those gnarly Bash scripts!|
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
+
  
  ## References
  
